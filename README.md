@@ -1,6 +1,6 @@
 # Audio Fingerprinting Application
 
-This application is the Final Year Project of Gerald Lau. It applies Audio Fingerprinting and Audio Watermarking technologies to create an application that embeds and retrieves link into a video.
+It applies Audio Fingerprinting and Audio Watermarking technologies to create an application that embeds and retrieves link into a video.
 
 ## Table of Contents
 
